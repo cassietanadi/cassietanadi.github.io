@@ -81,11 +81,7 @@ a:link {
     text-decoration: underline;
   }
 
-.flex-container {
-    display: flex;
-    height: 300px;
-    justify-content: center;
-    align-items: center;
+.container {
     background-color:whitesmoke;
   }
   
