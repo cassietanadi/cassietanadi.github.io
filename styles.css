@@ -157,36 +157,14 @@ footer {
 }
 
 /* Projects Styles */
-
-.container-fluid{
-  background-color:whitesmoke;
-}
-
-.row1 {
-  height:500px;
+.project-page .container-fluid{
   background-color:whitesmoke;
   padding:20px;
-  color:black;
-}
-
-.row1 div {
-  border: 1px solid black;
-  padding-bottom:50px;
+  margin-bottom: 10px;
+  margin-top: 5px;
 }
     
-.row2 {
-  height:500px;
-  background-color:whitesmoke;
-  padding:20px;
-  color:black;
-}
-    
-.row2 div {
-  border: 1px solid black;
-  padding-bottom:50px;
-}
-    
-/* Projects Styles */
+/* Contacts Styles */
 
 #contact button[type="submit"] {
 	cursor:pointer;
